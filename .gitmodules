@@ -1,0 +1,12 @@
+[submodule "vendor/github.com/graphql-go/graphql"]
+	path = vendor/github.com/graphql-go/graphql
+	url = https://github.com/graphql-go/graphql
+[submodule "vendor/github.com/graphql-go/graphql-go-handler"]
+	path = vendor/github.com/graphql-go/graphql-go-handler
+	url = https://github.com/graphql-go/graphql-go-handler
+[submodule "vendor/github.com/gorilla/schema"]
+	path = vendor/github.com/gorilla/schema
+	url = https://github.com/gorilla/schema
+[submodule "vendor/github.com/unrolled/render"]
+	path = vendor/github.com/unrolled/render
+	url = https://github.com/unrolled/render
